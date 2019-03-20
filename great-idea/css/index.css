@@ -156,7 +156,9 @@ header{
 				color: rgb(255, 253, 253);
 			}
 		}
-
+.services-header-img{
+	width: 100%;
+}
 
 .middle-img{
 	display: block;
