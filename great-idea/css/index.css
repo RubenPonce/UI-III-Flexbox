@@ -163,7 +163,7 @@ header{
 .middle-img{
 	display: block;
 	width: 100%;
-	margin: 40px 0px;
+	margin: 20px 0px;
 }
 
 
@@ -238,6 +238,6 @@ header{
 .end li{
 	margin-top: .5em;
 	line-height: 2;
-	list-style-type: disc;
+	list-style: disc;
 	margin-left: 1em;
 }
